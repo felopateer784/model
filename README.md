@@ -1,0 +1,2 @@
+# swat.glb
+skin
